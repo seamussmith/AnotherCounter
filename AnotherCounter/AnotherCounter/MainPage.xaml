@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnotherCounter.MainPage">
+    <StackLayout Padding="20">
+        
+        <Label
+            x:Name="CpsDisplay"
+            Text="{Binding Cps, StringFormat='{0:n2} CPS'}"
+            HorizontalTextAlignment="Center"
+            FontSize="30"
+           />
+        <Button
+            x:Name="Clicker"
+            Margin="0,250,0,0"
+            Text="Click as fast as you can for 5 seconds!"
+            BackgroundColor="LightBlue"
+            TextColor="Black"
+            Clicked="Button_Clicked"
+            HeightRequest="100"
+            />
+        <Label
+            Text="{Binding Count, StringFormat='Count: {0}'}"
+            HorizontalTextAlignment="Center"
+            FontSize="50"
+            />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\bin\Debug\netstandard2.0\AnotherCounter.deps.json
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\bin\Debug\netstandard2.0\AnotherCounter.dll
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\bin\Debug\netstandard2.0\ref\AnotherCounter.dll
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\bin\Debug\netstandard2.0\AnotherCounter.pdb
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.csproj.AssemblyReference.cache
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.AssemblyInfoInputs.cache
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.AssemblyInfo.cs
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.csproj.CoreCompileInputs.cache
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.dll
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\ref\AnotherCounter.dll
+C:\Users\smiths\Desktop\Work\AnotherCounter\AnotherCounter\AnotherCounter\obj\Debug\netstandard2.0\AnotherCounter.pdb
